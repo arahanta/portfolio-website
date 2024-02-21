@@ -1,5 +1,4 @@
 import React from "react";
-
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -7,17 +6,23 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ada</h1>
+        <h1 className={`${styles.title} ${styles.animateText}`}>
+          Hi, I'm Arahanta
+        </h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+          I'm a final year student at Thapathali Campus, Tribhuvan University.
+          I'm enthusiastic about machine learning and data science, and
+          currently, I'm gaining practical experience as an AI intern
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a
+          href="https://www.linkedin.com/in/pokhrel-arahanta-686503259/"
+          className={styles.contactBtn}
+        >
           Contact Me
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImage.png")}
+        src={getImageUrl("hero/HeroImage.png")}
         alt="Hero image of me"
         className={styles.heroImg}
       />

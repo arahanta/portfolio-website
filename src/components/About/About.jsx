@@ -9,7 +9,7 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/aboutImage.png")}
+          src={getImageUrl("about/abouti.png")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
@@ -25,12 +25,11 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <img src={getImageUrl("about/machinei.png")} width="90" height="90" alt="ML icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Machine Learning and DataAnalysis</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                I have experience developing NLP projects.
               </p>
             </div>
           </li>

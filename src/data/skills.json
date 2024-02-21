@@ -12,12 +12,12 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "title": "NLP",
+    "imageSrc": "skills/nlp.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Machine Learning",
+    "imageSrc": "skills/machineLearning.png"
   },
   {
     "title": "MongoDB",
@@ -26,5 +26,13 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "LangChain",
+    "imageSrc": "skills/langChain.jpg"
+  },
+  {
+    "title": "Numpy",
+    "imageSrc": "skills/numpy.jpg"
   }
 ]

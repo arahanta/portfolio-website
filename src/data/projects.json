@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "TheDormDen",
+    "imageSrc": "projects/seen.png",
+    "description": "The Dorm Den is a Hostel Web Portal implemented in MERN stack",
+    "skills": ["React", "Express", "Node","MongoDB"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/arahanta/TheDormDen"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "Question-Answer Generation",
+    "imageSrc": "projects/UI1.png",
+    "description": "This is a project made to Create Assement tool.",
+    "skills": ["ML", "NLP", "React", "Flask"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/arahanta/Subjective-Question-Answer-Dataset"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "ChatBot",
+    "imageSrc": "projects/chatbot.png",
+    "description": "This is a project made to answer the question from pdf.",
+    "skills": ["Langchain", "Chroma", "RAG"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/arahanta/question-answering-chatbot"
   }
 ]
