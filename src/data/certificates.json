@@ -1,0 +1,20 @@
+[
+  {
+    "title": "AWS",
+    "imageSrc": "certificate/AWS.png",
+    "description": "AWS Cloud Technical Essentials",
+    "source": "https://www.coursera.org/account/accomplishments/verify/R5W9X3J5J3JC"
+  },
+  {
+    "title": "Data Structure",
+    "imageSrc": "certificate/DataStructure.png",
+    "description": "Learning DataStructure With Python",
+    "source": "https://www.coursera.org/account/accomplishments/certificate/3SE8V6477UBV"
+  },
+  {
+    "title": "Supervised Learning",
+    "imageSrc": "certificate/SupervisedL.png",
+    "description": "Starting of Deep learning.",
+    "source": "https://www.coursera.org/account/accomplishments/certificate/SJMM8MNR2WY9"
+  }
+]
